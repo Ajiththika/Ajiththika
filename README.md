@@ -5,7 +5,7 @@ Focused on learning web development through hands-on projects while building str
 
 ---
 
-### 👨‍💻 About
+###  About
 I am a web development student building practical skills through small projects and self-directed learning.  
 In addition to technical learning, I have experience as a student intern supporting administrative tasks, organizing makerspace activities, and assisting with student events.  
 
@@ -62,6 +62,6 @@ I focus on understanding core web development concepts and applying them through
 
 ---
 
-### 🔗 Connect
+###  Connect
 - **LinkedIn:** https://www.linkedin.com/in/ajiththika-sivathas/
 - **Email:** ajiththika17@gmail.com

@@ -15,7 +15,7 @@ I focus on understanding core web development concepts and applying them through
 
 ## Technical Skills
 
-- **Languages:** HTML, CSS, JavaScript  
+- **Languages:** HTML, CSS, JavaScript, React JS
 - **Frontend Fundamentals:** Semantic HTML, responsive layouts, DOM manipulation  
 - **Tools:** Git, GitHub, VS Code, Chrome DevTools  
 - **Currently Learning:** Modern JavaScript practices, project structuring, responsive web design

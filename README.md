@@ -1,7 +1,7 @@
 ##  Ajiththika Sivathas
 
 Web development student and student intern with experience in administrative support, makerspace activities, and volunteering.  
-Focused on learning web development through hands-on projects while building strong fundamentals in HTML, CSS, and JavaScript.
+Focused on learning web development through hands-on projects while building strong fundamentals in HTML, CSS, JavaScript & React JS.
 
 ---
 

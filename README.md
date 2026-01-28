@@ -47,7 +47,7 @@ A MERN-based tailoring marketplace developed as my final project. The frontend i
 A React and Tailwind project focused on component-based UI design, state management, and responsive layouts.
 
 🔗 Repository: https://github.com/Ajiththika/Movie_Tracker  
-🌐 Live Demo: https://movie-tracker.vercel.app
+🌐 Live Demo: https://movie-tracker-indol.vercel.app/
 
 ---
 
@@ -55,7 +55,7 @@ A React and Tailwind project focused on component-based UI design, state managem
 A JavaScript-based quiz application built to strengthen core frontend fundamentals such as DOM manipulation and event handling.
 
 🔗 Repository: https://github.com/Ajiththika/Quiz_App  
-🌐 Live Demo: https://quiz-app.vercel.app
+🌐 Live Demo: https://quiz-pb7dvrs35-ajiththikas-projects.vercel.app/
 
 ---
 

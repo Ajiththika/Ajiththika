@@ -1,67 +1,71 @@
-##  Ajiththika Sivathas
+# Hi, I'm Ajiththika Sivathas 👋
 
-Web development student and student intern with experience in administrative support, makerspace activities, and volunteering.  
-Focused on learning web development through hands-on projects while building strong fundamentals in HTML, CSS, JavaScript & React JS.
+Web development student based in Jaffna, Sri Lanka. I am currently pursuing full-stack web development. I have completed frontend development and React, and I am now learning MongoDB, Node.js, and Express as part of the MERN stack track.
 
----
-
-###  About
-I am a web development student building practical skills through small projects and self-directed learning.  
-In addition to technical learning, I have experience as a student intern supporting administrative tasks, organizing makerspace activities, and assisting with student events.  
-
-I focus on understanding core web development concepts and applying them through projects. I aim to grow into a reliable developer capable of contributing to professional projects while developing strong communication and teamwork skills.
+My focus is on building practical projects that demonstrate strong fundamentals, clean structure, and steady progression from frontend to full-stack development.
 
 ---
 
-## Technical Skills
-
-- **Languages:** HTML, CSS, JavaScript, React JS
-- **Frontend Fundamentals:** Semantic HTML, responsive layouts, DOM manipulation  
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
-- **Currently Learning:** Modern JavaScript practices, project structuring, responsive web design
-  
----
-
-## Projects
-
-### Personal Portfolio Website
-- **Description:** A responsive portfolio website to showcase my projects and skills  
-- **Technologies:** HTML, CSS, JavaScript  
-- **What I Learned:**  
-  - Structuring and styling web pages  
-  - Creating responsive layouts for multiple screen sizes  
-  - Organizing project files and using Git for version control  
-- **Repository:** [personal-portfolio](https://github.com/Ajiththika/personal-portfolio)
-
-### To-Do List App
-- **Description:** A JavaScript-based To-Do List application for practicing DOM manipulation and local storage  
-- **Technologies:** HTML, CSS, JavaScript  
-- **What I Learned:**  
-  - Adding and removing tasks dynamically  
-  - Using local storage to persist user data  
-  - Handling user interactions and events in the browser  
-- **Repository:** [todo-list-app](https://github.com/Ajiththika/todo-list-app)
-  
----
-
-## Internship & Volunteering Experience
-
-**Student Intern – Yarl IT Hub**  
-- Managed and organized data in Excel, including verifying competition questions  
-- Assisted in makerspace activities for students  
-- Supported volunteers and participants during events and workshops  
-- Completed documentation and reporting tasks with attention to detail
+## Current Focus
+- Frontend development (completed)
+- MERN stack development (MongoDB, Node.js, Express in progress)
+- Active development of my final project, IntelliFit
 
 ---
 
-## Goals
+## Tech Stack
 
-- Build projects that demonstrate technical understanding of web development  
-- Become a competent junior web developer ready to contribute to professional teams  
-- Leverage education and skills for international opportunities
+### Frontend
+- HTML5, CSS3
+- JavaScript
+- React
+- Tailwind CSS
+- Bootstrap
+
+### Backend & Data
+- Node.js, Express (learning)
+- MongoDB (learning)
+- Python (practice and scripting)
+
+### Tools
+- Git & GitHub
+- VS Code
+- Chrome DevTools
 
 ---
 
-###  Connect
-- **LinkedIn:** https://www.linkedin.com/in/ajiththika-sivathas/
-- **Email:** ajiththika17@gmail.com
+## Selected Projects
+
+### IntelliFit (Final Project – Ongoing)
+A MERN-based tailoring marketplace developed as my final project. The frontend is completed, and backend and database features are currently in development.
+
+🔗 Repository: https://github.com/Ajiththika/IntelliFit
+
+---
+
+### Movie Tracker (Completed)
+A React and Tailwind project focused on component-based UI design, state management, and responsive layouts.
+
+🔗 Repository: https://github.com/Ajiththika/Movie_Tracker  
+🌐 Live Demo: https://movie-tracker.vercel.app
+
+---
+
+### Quiz App (Completed)
+A JavaScript-based quiz application built to strengthen core frontend fundamentals such as DOM manipulation and event handling.
+
+🔗 Repository: https://github.com/Ajiththika/Quiz_App  
+🌐 Live Demo: https://quiz-app.vercel.app
+
+---
+
+## What I’m Improving
+- Full-stack application architecture
+- Backend fundamentals (CRUD operations, authentication)
+- Writing clear technical documentation
+- Deployment and environment configuration
+
+---
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/ajiththika-sivathas/
